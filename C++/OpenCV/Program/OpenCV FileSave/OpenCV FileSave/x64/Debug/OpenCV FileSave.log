@@ -1,0 +1,23 @@
+﻿  main.cpp
+d:\users\jinhyeok\source\repos\opencv filesave\opencv filesave\main.cpp(38): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\users\jinhyeok\source\repos\opencv filesave\opencv filesave\main.cpp(41): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+d:\users\jinhyeok\source\repos\opencv filesave\opencv filesave\main.cpp(44): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+d:\users\jinhyeok\source\repos\opencv filesave\opencv filesave\main.cpp(45): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+d:\users\jinhyeok\source\repos\opencv filesave\opencv filesave\main.cpp(46): warning C4244: '=': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=uchar
+          ]
+  OpenCV FileSave.vcxproj -> D:\Users\Jinhyeok\source\repos\OpenCV FileSave\x64\Debug\OpenCV FileSave.exe

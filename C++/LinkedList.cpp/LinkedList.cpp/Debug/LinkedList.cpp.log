@@ -1,0 +1,31 @@
+﻿  node.cpp
+  main.cpp
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\main.cpp(47): warning C4101: 'select_option' :참조되지 않은 지역 변수입니다.
+  LinkedList.cpp
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(154): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(195): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(213): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(246): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(248): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(205): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(292): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(334): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(282): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(412): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(416): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(435): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(439): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(460): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(474): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(105): warning C4715: 'LinkedList::InsertAfter': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(203): warning C4715: 'LinkedList::Modify': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\2학년 2학기\linkedlist.cpp\linkedlist.cpp\linkedlist.cpp(83): warning C4715: 'LinkedList::InsertBefore': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LINK : C:\Users\Jinhyeok\OneDrive - 안양대학교\학교\ASLAB\2학년 2학기\LinkedList.cpp\Debug\LinkedList.cpp.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  LinkedList.cpp.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\학교\ASLAB\2학년 2학기\LinkedList.cpp\Debug\LinkedList.cpp.exe
+  LinkedList.cpp.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\학교\ASLAB\2학년 2학기\LinkedList.cpp\Debug\LinkedList.cpp.pdb (Full PDB)

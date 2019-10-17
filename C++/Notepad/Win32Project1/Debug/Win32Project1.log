@@ -1,0 +1,4 @@
+﻿  Form.cpp
+e:\win32project1\win32project1\form.cpp(148): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  Win32Project1.vcxproj -> E:\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> E:\Win32Project1\Debug\Win32Project1.pdb (Full PDB)

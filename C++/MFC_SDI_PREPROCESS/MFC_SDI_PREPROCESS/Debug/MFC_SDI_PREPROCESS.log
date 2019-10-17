@@ -1,0 +1,44 @@
+﻿  MFC_SDI_PREPROCESSDoc.cpp
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(162): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(171): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(178): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(179): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(214): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(227): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(253): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(261): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(262): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(288): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(316): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(317): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(344): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(345): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(329): warning C4101: 'pstr' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(366): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(367): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(378): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(379): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(380): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(391): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(398): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(404): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(429): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(430): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(473): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(474): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(485): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(507): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(508): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(544): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(545): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(556): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(559): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(597): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(598): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(609): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(612): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(577): warning C4101: 'left' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_sdi_preprocess\mfc_sdi_preprocess\mfc_sdi_preprocessdoc.cpp(577): warning C4101: 'right' :참조되지 않은 지역 변수입니다.
+  MFC_SDI_PREPROCESS.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\ASLAB\3학년 2학기\MFC_SDI_PREPROCESS\Debug\MFC_SDI_PREPROCESS.exe
+  MFC_SDI_PREPROCESS.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\ASLAB\3학년 2학기\MFC_SDI_PREPROCESS\Debug\MFC_SDI_PREPROCESS.pdb (Partial PDB)

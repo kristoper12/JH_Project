@@ -1,0 +1,18 @@
+﻿  Dlg_List.cpp
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(162): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(163): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(171): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(172): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(173): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(177): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(116): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BYTE *'입니다.
+  c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(116): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(128): warning C4477: 'fscanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BYTE *'입니다.
+  c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(128): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(77): warning C4101: 'pch1' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(79): warning C4101: 'context' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(76): warning C4101: 'input2' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(78): warning C4101: 'pch2' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\aslab\3학년 2학기\mfc_study\mfc_sdi_preprocess\mfc_sdi_preprocess\dlg_list.cpp(75): warning C4101: 'input1' :참조되지 않은 지역 변수입니다.
+  MFC_SDI_PREPROCESS.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\ASLAB\3학년 2학기\MFC_STUDY\MFC_SDI_PREPROCESS\Debug\MFC_SDI_PREPROCESS.exe
+  MFC_SDI_PREPROCESS.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\ASLAB\3학년 2학기\MFC_STUDY\MFC_SDI_PREPROCESS\Debug\MFC_SDI_PREPROCESS.pdb (Partial PDB)

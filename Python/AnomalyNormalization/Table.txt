@@ -1,0 +1,7 @@
+Person	Child	Salary
+Codd	Alice	60K
+Bob	Codd	60K
+Mark	Codd	60K
+Joseph	Zloof	44K
+Abe	Zloof	44K
+Alice	Codd	50K

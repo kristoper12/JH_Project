@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(15): warning C4091: 'typedef ': 변수를 선언하지 않으면 'nueron_' 왼쪽은 무시됩니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(65): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(207): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(208): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(52): warning C4101: 'score' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(47): warning C4101: 'x1' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(46): warning C4101: 'predict' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(48): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(45): warning C4101: 'target' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(47): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(355): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(345): warning C4715: 'NET': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\jinhyeok\onedrive - 안양대학교\학교\aslab\4학년 1학기\인공지능\퍼셉트론\multilayerperceptron\multilayerperceptron\main.cpp(304): warning C4715: 'RandFloat': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MultiLayerPerceptron.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\학교\ASLAB\4학년 1학기\인공지능\퍼셉트론\MultiLayerPerceptron\Debug\MultiLayerPerceptron.exe
+  MultiLayerPerceptron.vcxproj -> C:\Users\Jinhyeok\OneDrive - 안양대학교\학교\ASLAB\4학년 1학기\인공지능\퍼셉트론\MultiLayerPerceptron\Debug\MultiLayerPerceptron.pdb (Full PDB)
